@@ -11,7 +11,7 @@ Our client is a large MNC and they have 9 broad verticals across the organisatio
     
     * At the end of the program, based on various factors such as training performance, an employee gets the promotion
     
--Used Logistic Regression of Machine Learning. Performed various machine learning concepts like Exploratory analysis, feature scaling,
+- Used Logistic Regression of Machine Learning. Performed various machine learning concepts like Exploratory analysis, feature scaling,
  resampling along with Descriptive Statistics.
 - Used Python Libraries Draw Pie chat, Box plot, Heat map, Bar plot and build a predictive system to predict promotion scenario of employee.
 
